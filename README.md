@@ -60,6 +60,7 @@ npm run dev
 ---
 
 ### ☁️ Deployment
+
 Hosting: Hosted as a Web Service on Render
 
 Build Command: npm install && npm run build

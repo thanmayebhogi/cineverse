@@ -1,11 +1,6 @@
-# CineVerse - Premium OTT Movie Discovery & Search Platform
+# Cineverse 🎬
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-brightgreen?style=for-the-badge&logo=render)](https://cineverse-dpj0.onrender.com)
-
-
-**CineVerse** is a full-stack, production-ready OTT movie discovery and search platform inspired by modern streaming interfaces like *Netflix*, *IMDb*, and *Disney+*. It delivers real-time movie queries, HD trailer previews, interactive search autocomplete, personalized watchlists, user authentication, and a resilient fallback engine.
-
-🌐 **Live Demo:** [https://cineverse-dpj0.onrender.com](https://cineverse-dpj0.onrender.com)
+A modern OTT streaming platform web application built with React, Node.js, Express, and MongoDB.
 
 ---
 
@@ -43,14 +38,18 @@ TMDB_API_KEY="YOUR_TMDB_API_KEY"
 MONGODB_URI="mongodb+srv://<username>:<password>@cluster0.mongodb.net/cineverse?retryWrites=true&w=majority"
 
 # Secret key for JWT authentication
-JWT_SECRET="cineverse_super_secret_jwt_key_2026" 
+JWT_SECRET="cineverse_super_secret_jwt_key_2026"
 
 💻 Getting Started
-
-### 1. Clone the Repository
-```bash
+1. Clone the Repository
 git clone [https://github.com/thanmayebhogi/cineverse.git](https://github.com/thanmayebhogi/cineverse.git)
 cd cineverse
+
+2. Install Dependencies
+npm install
+
+3. Start the Development Server
+npm run dev
 
 ☁️ Deployment
 Hosting: Hosted as a Web Service on Render
@@ -58,3 +57,5 @@ Hosting: Hosted as a Web Service on Render
 Build Command: npm install && npm run build
 
 Start Command: npm start
+
+

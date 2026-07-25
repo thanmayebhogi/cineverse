@@ -1,7 +1,7 @@
 # CineVerse - Premium OTT Movie Discovery & Search Platform
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-brightgreen?style=for-the-badge&logo=render)](https://cineverse-dpj0.onrender.com)
-[![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
 
 **CineVerse** is a full-stack, production-ready OTT movie discovery and search platform inspired by modern streaming interfaces like *Netflix*, *IMDb*, and *Disney+*. It delivers real-time movie queries, HD trailer previews, interactive search autocomplete, personalized watchlists, user authentication, and a resilient fallback engine.
 

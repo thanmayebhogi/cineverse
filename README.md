@@ -43,9 +43,9 @@ TMDB_API_KEY="YOUR_TMDB_API_KEY"
 MONGODB_URI="mongodb+srv://<username>:<password>@cluster0.mongodb.net/cineverse?retryWrites=true&w=majority"
 
 # Secret key for JWT authentication
-JWT_SECRET="cineverse_super_secret_jwt_key_2026"
+JWT_SECRET="cineverse_super_secret_jwt_key_2026" 
 
-## 💻 Getting Started
+💻 Getting Started
 
 ### 1. Clone the Repository
 ```bash

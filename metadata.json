@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse - Premium Movie & OTT Streaming Hub",
+  "description": "Production-ready OTT movie discovery platform inspired by Netflix, IMDb, and Disney+ with real-time TMDB search, rich recommendations, interactive trailers, watchlists, and user profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

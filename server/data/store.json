@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "usr_178497003810575gjd",
+      "name": "thanmaye",
+      "email": "thanmayebhogi2006@gmail.com",
+      "passwordHash": "$2b$10$cj0fuoPzAdob3SPmmoNGrutiCAMN7ojXhhrj0qGaw7r526oNCYvwu",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+      "preferredGenres": [
+        28,
+        878,
+        12
+      ],
+      "createdAt": "2026-07-25T09:00:38.105Z"
+    }
+  ],
+  "favorites": {
+    "usr_178497003810575gjd": [
+      1273221
+    ]
+  },
+  "watchlist": {
+    "usr_178497003810575gjd": [
+      969681,
+      454639
+    ]
+  },
+  "history": {
+    "usr_178497003810575gjd": [
+      {
+        "movieId": 1339713,
+        "timestamp": "2026-07-25T12:23:00.827Z"
+      },
+      {
+        "movieId": 1368337,
+        "timestamp": "2026-07-25T12:18:27.224Z"
+      }
+    ]
+  },
+  "searchHistory": {
+    "usr_178497003810575gjd": []
+  },
+  "reviews": {}
+}

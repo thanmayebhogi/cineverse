@@ -39,19 +39,27 @@ MONGODB_URI="mongodb+srv://<username>:<password>@cluster0.mongodb.net/cineverse?
 
 # Secret key for JWT authentication
 JWT_SECRET="cineverse_super_secret_jwt_key_2026"
+```
 
-💻 Getting Started
-1. Clone the Repository
+---
+
+## 💻 Getting Started
+
+### 1. Clone the Repository
+```bash
 git clone [https://github.com/thanmayebhogi/cineverse.git](https://github.com/thanmayebhogi/cineverse.git)
 cd cineverse
 
-2. Install Dependencies
+### "2. Install Dependencies"
 npm install
 
-3. Start the Development Server
+### "3. Start the Development Server"
 npm run dev
+```
 
-☁️ Deployment
+---
+
+### ☁️ Deployment
 Hosting: Hosted as a Web Service on Render
 
 Build Command: npm install && npm run build
